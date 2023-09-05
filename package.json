@@ -1,0 +1,18 @@
+{
+  "name": "pdf-thumbnail-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dominic Kasanga <dominickasanga@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "express": "^4.18.2",
+    "pdf-poppler": "^0.2.1",
+    "sharp": "^0.32.5"
+  }
+}
